@@ -14,9 +14,9 @@ Se unieron los conjuntos de datos en un solo DataFrame .
 
 Se crearon nuevas columnas para enriquecer el análisis,puesto que se requeria 20 columnas minimo .
 
-          Calificacion_Alta: Variable binaria (1 o 0) para identificar las calificaciones mayores a 3.5.
+* Calificacion_Alta: Variable binaria (1 o 0) para identificar las calificaciones mayores a 3.5.
 
-          Epoca y Decada: Se categorizaron las películas según su año de estreno para analizar las tendencias históricas.
+* Epoca y Decada: Se categorizaron las películas según su año de estreno para analizar las tendencias históricas.
 
 Manejo de valores duplicados y nulos: Se gestionaron los valores faltantes para mantener la integridad de los datos.
 
